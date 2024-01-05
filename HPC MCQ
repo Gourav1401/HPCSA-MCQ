@@ -1,0 +1,813 @@
+Certainly! Here are 100 multiple-choice questions (MCQs) related to High Performance Computing (HPC) along with their answers:
+
+**High Performance Computing (HPC) MCQs:**
+
+**1. What does HPC stand for?**
+   a) High Performance Configuration
+   b) High Performance Computing
+   c) Highly Parallel Computation
+   d) High Precision Calculation
+
+   **Answer: b) High Performance Computing**
+
+**2. Which of the following is a key characteristic of HPC systems?**
+   a) Low computational power
+   b) Limited memory capacity
+   c) High processing speed
+   d) Single-core architecture
+
+   **Answer: c) High processing speed**
+
+**3. What is the main goal of HPC?**
+   a) Minimizing energy consumption
+   b) Maximizing storage capacity
+   c) Achieving optimal computational performance
+   d) Reducing hardware costs
+
+   **Answer: c) Achieving optimal computational performance**
+
+**4. Which hardware component is essential for parallel computing in HPC systems?**
+   a) Single-core CPU
+   b) Optical disc drive
+   c) High-capacity hard drive
+   d) Multi-core CPU
+
+   **Answer: d) Multi-core CPU**
+
+**5. What is the concept of "floating-point operations per second" (FLOPS) used for in HPC?**
+   a) Measuring memory capacity
+   b) Evaluating storage speed
+   c) Assessing computational performance
+   d) Analyzing network latency
+
+   **Answer: c) Assessing computational performance**
+
+**6. Which parallel computing architecture involves multiple processors sharing a common memory space?**
+   a) SIMD (Single Instruction, Multiple Data)
+   b) MIMD (Multiple Instruction, Multiple Data)
+   c) SPMD (Single Program, Multiple Data)
+   d) SMP (Symmetric Multiprocessing)
+
+   **Answer: d) SMP (Symmetric Multiprocessing)**
+
+**7. What is the role of a job scheduler in HPC environments?**
+   a) Rendering high-resolution graphics
+   b) Managing storage devices
+   c) Allocating computational resources
+   d) Providing network security
+
+   **Answer: c) Allocating computational resources**
+
+**8. Which software development approach focuses on breaking down a problem into smaller tasks that can be executed concurrently?**
+   a) Sequential programming
+   b) Object-oriented programming
+   c) Parallel programming
+   d) Functional programming
+
+   **Answer: c) Parallel programming**
+
+**9. What is the purpose of MPI (Message Passing Interface) in HPC?**
+   a) Managing file storage
+   b) Facilitating communication between processes
+   c) Generating graphical user interfaces
+   d) Monitoring hardware performance
+
+   **Answer: b) Facilitating communication between processes**
+
+**10. Which type of memory is used to store frequently accessed data for faster access in HPC systems?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Cache memory
+    d) Optical Disc
+
+    **Answer: c) Cache memory**
+
+**11. What does the term "cluster computing" refer to in HPC?**
+    a) A single high-performance computer
+    b) A group of computers connected for collaborative tasks
+    c) A storage system for backups
+    d) A type of optical disc drive
+
+    **Answer: b) A group of computers connected for collaborative tasks**
+
+**12. What is the purpose of a parallel file system in HPC clusters?**
+    a) Managing email communication
+    b) Accelerating graphics rendering
+    c) Enabling concurrent access to files by multiple nodes
+    d) Monitoring network traffic
+
+    **Answer: c) Enabling concurrent access to files by multiple nodes**
+
+**13. Which type of parallel computing model involves a master process distributing tasks to worker processes?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Task parallelism
+
+    **Answer: d) Task parallelism**
+
+**14. What is the primary advantage of GPU (Graphics Processing Unit) acceleration in HPC?**
+    a) Improving network security
+    b) Enhancing storage capacity
+    c) Increasing computational speed for specific tasks
+    d) Reducing power consumption
+
+    **Answer: c) Increasing computational speed for specific tasks**
+
+**15. What is the term for the practice of running multiple instances of a program or algorithm with different input data simultaneously?**
+    a) Load balancing
+    b) Scalability
+    c) Replication
+    d) Parameter sweeping
+
+    **Answer: d) Parameter sweeping**
+
+**16. What is the purpose of OpenMP (Open Multi-Processing) in HPC programming?**
+    a) Distributing data across multiple disks
+    b) Managing network traffic
+    c) Enabling shared-memory multiprocessing
+    d) Optimizing hard drive performance
+
+    **Answer: c) Enabling shared-memory multiprocessing**
+
+**17. Which type of HPC system is designed to handle workloads that require significant computational power but not real-time responsiveness?**
+    a) Supercomputer
+    b) Mainframe computer
+    c) Embedded system
+    d) Personal computer
+
+    **Answer: a) Supercomputer**
+
+**18. Which technology enables high-speed interconnects between nodes in a cluster, enhancing communication performance?**
+    a) SATA (Serial Advanced Technology Attachment)
+    b) USB (Universal Serial Bus)
+    c) InfiniBand
+    d) Ethernet
+
+    **Answer: c) InfiniBand**
+
+**19. What is the significance of Amdahl's Law in parallel computing?**
+    a) It defines the maximum clock speed of a CPU.
+    b) It outlines the benefits of single-core processing.
+    c) It quantifies the potential speedup achievable with parallelism.
+    d) It determines the size of cache memory.
+
+    **Answer: c) It quantifies the potential speedup achievable with parallelism.**
+
+**20. What is the main challenge associated with programming for HPC systems?**
+    a) Achieving low power consumption
+    b) Managing network security
+    c) Ensuring backward compatibility
+    d) Dealing with data synchronization and communication overhead
+
+    **Answer: d) Dealing with data synchronization and communication overhead**
+
+**21. Which programming language is commonly used for scientific and technical computing in HPC environments?**
+    a) Java
+    b) Python
+    c) C++
+    d) COBOL
+
+    **Answer: b) Python**
+
+**22. Which storage technology is often used in HPC clusters to provide high-speed, low-latency storage for frequently accessed data?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: b) Solid State Drive (SSD)**
+
+**23. What is the purpose of a job queue in an HPC cluster?**
+    a) Managing electricity consumption
+    b) Storing backup copies of files
+    c) Scheduling and prioritizing tasks
+    d) Providing internet connectivity
+
+    **Answer: c) Scheduling and prioritizing tasks**
+
+**24. Which
+
+ parallel computing model involves breaking down a problem into subtasks that are executed simultaneously on different processors?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Data parallelism
+
+    **Answer: d) Data parallelism**
+
+**25. What is the primary purpose of a benchmark in HPC?**
+    a) Managing data storage
+    b) Testing network security
+    c) Evaluating system performance
+    d) Creating graphical user interfaces
+
+    **Answer: c) Evaluating system performance**
+
+**26. Which storage technology is often used for long-term archival of data in HPC environments?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**27. Which HPC system component is responsible for managing and coordinating tasks across multiple nodes?**
+    a) CPU (Central Processing Unit)
+    b) GPU (Graphics Processing Unit)
+    c) Scheduler
+    d) Cache memory
+
+    **Answer: c) Scheduler**
+
+**28. What is the term for the process of optimizing a program's execution time and resource usage on an HPC system?**
+    a) Virtualization
+    b) Profiling
+    c) Encryption
+    d) Compression
+
+    **Answer: b) Profiling**
+
+**29. Which parallel programming model involves each process executing the same instructions but on different data sets?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Task parallelism
+
+    **Answer: a) SIMD (Single Instruction, Multiple Data)**
+
+**30. What does the term "grid computing" refer to in the context of HPC?**
+    a) A type of memory architecture
+    b) A method for rendering graphics
+    c) A distributed computing environment that aggregates resources from different institutions
+    d) A type of processor architecture
+
+    **Answer: c) A distributed computing environment that aggregates resources from different institutions**
+
+**31. Which parallel programming model involves processes running independently with their own program counters and data?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Thread parallelism
+
+    **Answer: b) MIMD (Multiple Instruction, Multiple Data)**
+
+**32. What is the role of a batch processing system in HPC?**
+    a) Real-time data analysis
+    b) Handling interactive tasks
+    c) Automating the execution of queued jobs
+    d) Providing graphical user interfaces
+
+    **Answer: c) Automating the execution of queued jobs**
+
+**33. Which technology enables the execution of multiple threads within a single process on a CPU?**
+    a) CUDA (Compute Unified Device Architecture)
+    b) OpenCL (Open Computing Language)
+    c) OpenMP (Open Multi-Processing)
+    d) MPI (Message Passing Interface)
+
+    **Answer: c) OpenMP (Open Multi-Processing)**
+
+**34. What is the purpose of a parallel debugger in HPC programming?**
+    a) Enhancing network security
+    b) Optimizing hard drive performance
+    c) Facilitating the detection and resolution of programming errors in parallel code
+    d) Managing file storage
+
+    **Answer: c) Facilitating the detection and resolution of programming errors in parallel code**
+
+**35. Which storage technology is characterized by its high storage capacity and sequential data access?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**36. What is the purpose of load balancing in HPC clusters?**
+    a) Improving network security
+    b) Enhancing storage capacity
+    c) Distributing computational tasks evenly among nodes
+    d) Optimizing hard drive performance
+
+    **Answer: c) Distributing computational tasks evenly among nodes**
+
+**37. Which type of HPC system is designed to handle massive data analysis tasks, such as climate modeling or DNA sequencing?**
+    a) Supercomputer
+    b) Mainframe computer
+    c) Embedded system
+    d) Personal computer
+
+    **Answer: a) Supercomputer**
+
+**38. What is the significance of Gustafson's Law in parallel computing?**
+    a) It outlines the benefits of single-core processing.
+    b) It defines the maximum clock speed of a CPU.
+    c) It quantifies the potential speedup achievable with parallelism.
+    d) It determines the size of cache memory.
+
+    **Answer: a) It outlines the benefits of single-core processing.**
+
+**39. Which programming language is commonly used for low-level programming and system software in HPC environments?**
+    a) Java
+    b) Python
+    c) C
+    d) Ruby
+
+    **Answer: c) C**
+
+**40. What is the primary goal of the LINPACK benchmark used in HPC performance measurement?**
+    a) Evaluating network security
+    b) Testing hardware compatibility
+    c) Assessing system memory capacity
+    d) Measuring floating-point performance
+
+    **Answer: d) Measuring floating-point performance**
+
+**41. Which storage technology offers the fastest access speeds but is relatively expensive and limited in capacity compared to other options?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: b) Solid State Drive (SSD)**
+
+**42. What is the role of a parallel I/O system in HPC clusters?**
+    a) Managing network security
+    b) Accelerating graphics rendering
+    c) Facilitating high-speed data storage and retrieval
+    d) Optimizing hard drive performance
+
+    **Answer: c) Facilitating high-speed data storage and retrieval**
+
+**43. Which technology allows the aggregation of computational resources across different geographic locations for HPC tasks?**
+    a) Virtualization
+    b) Cloud computing
+    c) InfiniBand
+    d) Fibre Channel
+
+    **Answer: b) Cloud computing**
+
+**44. What is the term for the process of dividing a large computational task into smaller subtasks that can be solved concurrently?**
+    a) Decomposition
+    b) Virtualization
+    c) Parallelization
+    d) Segmentation
+
+    **Answer: a) Decomposition**
+
+**45. What is the primary purpose of the HPL benchmark used for ranking supercomputers in the TOP500 list?**
+    a) Evaluating network security
+    b) Testing hardware compatibility
+    c) Assessing system memory capacity
+    d) Measuring floating-point performance
+
+    **Answer: d) Measuring floating-point performance**
+
+**46. Which type of network architecture is commonly used in HPC clusters to provide high-speed interconnects between nodes?**
+    a) Ethernet
+    b) Token Ring
+    c) ATM (Asynchronous Transfer Mode)
+    d) InfiniBand
+
+    **Answer
+
+: d) InfiniBand**
+
+**47. What is the main benefit of using parallel computing in HPC for scientific simulations and data analysis?**
+    a) Reduced power consumption
+    b) Simplified programming
+    c) Improved network security
+    d) Faster results and increased accuracy
+
+    **Answer: d) Faster results and increased accuracy**
+
+**48. Which HPC system component is responsible for managing communication between nodes in a cluster?**
+    a) CPU (Central Processing Unit)
+    b) GPU (Graphics Processing Unit)
+    c) Interconnect fabric
+    d) Cache memory
+
+    **Answer: c) Interconnect fabric**
+
+**49. Which technology allows multiple processes to communicate and synchronize their activities in HPC systems?**
+    a) USB (Universal Serial Bus)
+    b) MPI (Message Passing Interface)
+    c) SATA (Serial Advanced Technology Attachment)
+    d) Bluetooth
+
+    **Answer: b) MPI (Message Passing Interface)**
+
+**50. What is the purpose of a parallel job manager in an HPC cluster?**
+    a) Enhancing network security
+    b) Accelerating graphics rendering
+    c) Coordinating the execution of parallel jobs
+    d) Providing internet connectivity
+
+    **Answer: c) Coordinating the execution of parallel jobs**
+
+**51. Which storage technology is known for its durability and resistance to environmental factors, making it suitable for long-term data storage?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**52. What is the purpose of a parallel programming model in HPC?**
+    a) Evaluating hardware performance
+    b) Enabling communication between nodes
+    c) Defining the architecture of processors
+    d) Providing network security
+
+    **Answer: b) Enabling communication between nodes**
+
+**53. Which technology enables the execution of parallel code on GPUs for accelerated computing?**
+    a) CUDA (Compute Unified Device Architecture)
+    b) OpenCL (Open Computing Language)
+    c) OpenMP (Open Multi-Processing)
+    d) MPI (Message Passing Interface)
+
+    **Answer: a) CUDA (Compute Unified Device Architecture)**
+
+**54. What is the primary goal of vectorization in HPC programming?**
+    a) Managing network security
+    b) Enhancing storage capacity
+    c) Optimizing instruction-level parallelism
+    d) Automating software deployment
+
+    **Answer: c) Optimizing instruction-level parallelism**
+
+**55. Which HPC system component is responsible for storing frequently accessed data for fast access by the CPU?**
+    a) CPU (Central Processing Unit)
+    b) Memory hierarchy
+    c) Scheduler
+    d) Interconnect fabric
+
+    **Answer: b) Memory hierarchy**
+
+**56. What is the term for the practice of distributing computational tasks across multiple nodes in a cluster?**
+    a) Clustering
+    b) Load balancing
+    c) Replication
+    d) Virtualization
+
+    **Answer: b) Load balancing**
+
+**57. Which type of parallel computing model involves multiple processes executing independently but interacting through message passing?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Data parallelism
+
+    **Answer: b) MIMD (Multiple Instruction, Multiple Data)**
+
+**58. What is the primary purpose of distributed memory in HPC clusters?**
+    a) Accelerating graphics rendering
+    b) Enabling shared-memory multiprocessing
+    c) Facilitating communication between nodes
+    d) Enhancing network security
+
+    **Answer: c) Facilitating communication between nodes**
+
+**59. Which programming approach allows a single program to be executed on multiple nodes of an HPC cluster?**
+    a) Thread parallelism
+    b) Distributed parallelism
+    c) Data parallelism
+    d) Message-passing parallelism
+
+    **Answer: d) Message-passing parallelism**
+
+**60. What is the primary benefit of using HPC for large-scale simulations in scientific research?**
+    a) Reduced energy consumption
+    b) Simplified programming
+    c) Improved storage capacity
+    d) Faster results and insights
+
+    **Answer: d) Faster results and insights**
+
+**61. Which technology allows multiple threads within a single process to communicate and synchronize their activities in HPC systems?**
+    a) USB (Universal Serial Bus)
+    b) MPI (Message Passing Interface)
+    c) SATA (Serial Advanced Technology Attachment)
+    d) OpenMP (Open Multi-Processing)
+
+    **Answer: d) OpenMP (Open Multi-Processing)**
+
+**62. What is the purpose of vector processing in HPC architectures?**
+    a) Managing network security
+    b) Enhancing storage capacity
+    c) Accelerating mathematical operations by processing multiple elements in parallel
+    d) Automating software deployment
+
+    **Answer: c) Accelerating mathematical operations by processing multiple elements in parallel**
+
+**63. Which type of network architecture is commonly used in HPC clusters to provide a low-latency, high-throughput interconnect?**
+    a) Ethernet
+    b) Token Ring
+    c) ATM (Asynchronous Transfer Mode)
+    d) InfiniBand
+
+    **Answer: d) InfiniBand**
+
+**64. What is the term for the process of dividing a computational task into smaller subtasks that can be executed concurrently on multiple processors?**
+    a) Decomposition
+    b) Virtualization
+    c) Parallelization
+    d) Segmentation
+
+    **Answer: a) Decomposition**
+
+**65. Which storage technology is characterized by its high capacity, durability, and ability to store data for long periods?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**66. What is the purpose of a parallel debugger in HPC programming?**
+    a) Enhancing network security
+    b) Optimizing hard drive performance
+    c) Facilitating the detection and resolution of programming errors in parallel code
+    d) Managing file storage
+
+    **Answer: c) Facilitating the detection and resolution of programming errors in parallel code**
+
+**67. Which technology allows multiple processes to communicate and synchronize their activities in HPC systems?**
+    a) USB (Universal Serial Bus)
+    b) MPI (Message Passing Interface)
+    c) SATA (Serial Advanced Technology Attachment)
+    d) Bluetooth
+
+    **Answer: b) MPI (Message Passing Interface)**
+
+**68. What is the primary purpose of a parallel job manager in an HPC cluster?**
+    a) Enhancing network security
+    b) Accelerating graphics rendering
+    c) Coordinating the execution of parallel jobs
+    d) Providing internet connectivity
+
+    **Answer: c) Coordinating the execution of parallel jobs**
+
+**69. Which storage technology is known for its durability and resistance to environmental factors, making it suitable for long-term data storage?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+   
+
+ **Answer: c) Magnetic Tape**
+
+**70. What is the purpose of load balancing in HPC clusters?**
+    a) Improving network security
+    b) Enhancing storage capacity
+    c) Distributing computational tasks evenly among nodes
+    d) Optimizing hard drive performance
+
+    **Answer: c) Distributing computational tasks evenly among nodes**
+
+**71. Which type of HPC system is designed to handle massive data analysis tasks, such as climate modeling or DNA sequencing?**
+    a) Supercomputer
+    b) Mainframe computer
+    c) Embedded system
+    d) Personal computer
+
+    **Answer: a) Supercomputer**
+
+**72. What is the significance of Gustafson's Law in parallel computing?**
+    a) It outlines the benefits of single-core processing.
+    b) It defines the maximum clock speed of a CPU.
+    c) It quantifies the potential speedup achievable with parallelism.
+    d) It determines the size of cache memory.
+
+    **Answer: a) It outlines the benefits of single-core processing.**
+
+**73. Which programming language is commonly used for low-level programming and system software in HPC environments?**
+    a) Java
+    b) Python
+    c) C
+    d) Ruby
+
+    **Answer: c) C**
+
+**74. What is the primary goal of the LINPACK benchmark used in HPC performance measurement?**
+    a) Evaluating network security
+    b) Testing hardware compatibility
+    c) Assessing system memory capacity
+    d) Measuring floating-point performance
+
+    **Answer: d) Measuring floating-point performance**
+
+**75. Which storage technology offers the fastest access speeds but is relatively expensive and limited in capacity compared to other options?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: b) Solid State Drive (SSD)**
+
+**76. What is the role of a parallel I/O system in HPC clusters?**
+    a) Managing network security
+    b) Accelerating graphics rendering
+    c) Facilitating high-speed data storage and retrieval
+    d) Optimizing hard drive performance
+
+    **Answer: c) Facilitating high-speed data storage and retrieval**
+
+**77. Which technology allows the aggregation of computational resources across different geographic locations for HPC tasks?**
+    a) Virtualization
+    b) Cloud computing
+    c) InfiniBand
+    d) Fibre Channel
+
+    **Answer: b) Cloud computing**
+
+**78. What is the term for the practice of distributing computational tasks across multiple nodes in a cluster?**
+    a) Clustering
+    b) Load balancing
+    c) Replication
+    d) Virtualization
+
+    **Answer: b) Load balancing**
+
+**79. Which type of parallel computing model involves multiple processes executing independently but interacting through message passing?**
+    a) SIMD (Single Instruction, Multiple Data)
+    b) MIMD (Multiple Instruction, Multiple Data)
+    c) SPMD (Single Program, Multiple Data)
+    d) Data parallelism
+
+    **Answer: b) MIMD (Multiple Instruction, Multiple Data)**
+
+**80. What is the primary purpose of distributed memory in HPC clusters?**
+    a) Accelerating graphics rendering
+    b) Enabling shared-memory multiprocessing
+    c) Facilitating communication between nodes
+    d) Enhancing network security
+
+    **Answer: c) Facilitating communication between nodes**
+
+**81. Which programming approach allows a single program to be executed on multiple nodes of an HPC cluster?**
+    a) Thread parallelism
+    b) Distributed parallelism
+    c) Data parallelism
+    d) Message-passing parallelism
+
+    **Answer: d) Message-passing parallelism**
+
+**82. What is the primary benefit of using HPC for large-scale simulations in scientific research?**
+    a) Reduced energy consumption
+    b) Simplified programming
+    c) Improved storage capacity
+    d) Faster results and insights
+
+    **Answer: d) Faster results and insights**
+
+**83. Which technology allows multiple threads within a single process to communicate and synchronize their activities in HPC systems?**
+    a) USB (Universal Serial Bus)
+    b) MPI (Message Passing Interface)
+    c) SATA (Serial Advanced Technology Attachment)
+    d) OpenMP (Open Multi-Processing)
+
+    **Answer: d) OpenMP (Open Multi-Processing)**
+
+**84. What is the purpose of vectorization in HPC programming?**
+    a) Managing network security
+    b) Enhancing storage capacity
+    c) Optimizing instruction-level parallelism
+    d) Automating software deployment
+
+    **Answer: c) Optimizing instruction-level parallelism**
+
+**85. Which type of network architecture is commonly used in HPC clusters to provide a low-latency, high-throughput interconnect?**
+    a) Ethernet
+    b) Token Ring
+    c) ATM (Asynchronous Transfer Mode)
+    d) InfiniBand
+
+    **Answer: d) InfiniBand**
+
+**86. What is the term for the process of dividing a computational task into smaller subtasks that can be executed concurrently on multiple processors?**
+    a) Decomposition
+    b) Virtualization
+    c) Parallelization
+    d) Segmentation
+
+    **Answer: a) Decomposition**
+
+**87. Which storage technology is characterized by its high capacity, durability, and ability to store data for long periods?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**88. What is the purpose of a parallel debugger in HPC programming?**
+    a) Enhancing network security
+    b) Optimizing hard drive performance
+    c) Facilitating the detection and resolution of programming errors in parallel code
+    d) Managing file storage
+
+    **Answer: c) Facilitating the detection and resolution of programming errors in parallel code**
+
+**89. Which technology allows multiple processes to communicate and synchronize their activities in HPC systems?**
+    a) USB (Universal Serial Bus)
+    b) MPI (Message Passing Interface)
+    c) SATA (Serial Advanced Technology Attachment)
+    d) Bluetooth
+
+    **Answer: b) MPI (Message Passing Interface)**
+
+**90. What is the primary purpose of a parallel job manager in an HPC cluster?**
+    a) Enhancing network security
+    b) Accelerating graphics rendering
+    c) Coordinating the execution of parallel jobs
+    d) Providing internet connectivity
+
+    **Answer: c) Coordinating the execution of parallel jobs**
+
+**91. Which storage technology is known for its durability and resistance to environmental factors, making it suitable for long-term data storage?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: c) Magnetic Tape**
+
+**92. What is the purpose of load balancing in HPC clusters?**
+    a) Improving network security
+    b) Enhancing storage capacity
+    c) Distributing computational tasks evenly among nodes
+    d) Optimizing hard drive performance
+
+    **Answer: c) Distributing
+
+ computational tasks evenly among nodes**
+
+**93. Which type of HPC system is designed to handle massive data analysis tasks, such as climate modeling or DNA sequencing?**
+    a) Supercomputer
+    b) Mainframe computer
+    c) Embedded system
+    d) Personal computer
+
+    **Answer: a) Supercomputer**
+
+**94. What is the significance of Gustafson's Law in parallel computing?**
+    a) It outlines the benefits of single-core processing.
+    b) It defines the maximum clock speed of a CPU.
+    c) It quantifies the potential speedup achievable with parallelism.
+    d) It determines the size of cache memory.
+
+    **Answer: a) It outlines the benefits of single-core processing.**
+
+**95. Which programming language is commonly used for low-level programming and system software in HPC environments?**
+    a) Java
+    b) Python
+    c) C
+    d) Ruby
+
+    **Answer: c) C**
+
+**96. What is the primary goal of the LINPACK benchmark used in HPC performance measurement?**
+    a) Evaluating network security
+    b) Testing hardware compatibility
+    c) Assessing system memory capacity
+    d) Measuring floating-point performance
+
+    **Answer: d) Measuring floating-point performance**
+
+**97. Which storage technology offers the fastest access speeds but is relatively expensive and limited in capacity compared to other options?**
+    a) Hard Disk Drive (HDD)
+    b) Solid State Drive (SSD)
+    c) Magnetic Tape
+    d) Optical Disc
+
+    **Answer: b) Solid State Drive (SSD)**
+
+**98. What is the role of a parallel I/O system in HPC clusters?**
+    a) Managing network security
+    b) Accelerating graphics rendering
+    c) Facilitating high-speed data storage and retrieval
+    d) Optimizing hard drive performance
+
+    **Answer: c) Facilitating high-speed data storage and retrieval**
+
+**99. Which technology allows the aggregation of computational resources across different geographic locations for HPC tasks?**
+    a) Virtualization
+    b) Cloud computing
+    c) InfiniBand
+    d) Fibre Channel
+
+    **Answer: b) Cloud computing**
+
+**100. What is the term for the practice of distributing computational tasks across multiple nodes in a cluster?**
+    a) Clustering
+    b) Load balancing
+    c) Replication
+    d) Virtualization
+
+    **Answer: b) Load balancing**
+
+Please note that these questions and answers are based on general knowledge related to High Performance Computing (HPC) as of my last update in September 2021. Always ensure that you refer to the most recent and accurate sources for up-to-date information and specific details.
